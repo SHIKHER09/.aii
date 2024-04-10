@@ -1,4 +1,4 @@
-# college_recommendation-_system
+
 <h1 align="center">
 
   College Branch Recommendation System
@@ -41,7 +41,7 @@ To use this system, follow these steps:
 
 ## Download
 
-You can download the latest version of the College Branch Recommendation System from [here](insert-your-download-url-here).
+You can download the latest version of the College Branch Recommendation System from [here](https://github.com/SHIKHER09/Course-Navigator.Ai.git).
 
 ## Future Scope
 
@@ -59,12 +59,18 @@ Ensure:
 - Proper preprocessing of user interests.
 - Appropriate handling of missing or incompatible data.
 
-## License
+## Contributing
+If you'd like to contribute to the College Branch Recommendation System, here's how you can get started:
 
-[Insert your license here]
+Fork the repository.
 
----
+Create your feature branch using git checkout -b feature/XYZ.
 
-> [Your Website](insert-your-website-url-here) &nbsp;&middot;&nbsp;
-> GitHub [@YourGitHubUsername](insert-your-github-url-here) &nbsp;&middot;&nbsp;
-> Twitter [@YourTwitterHandle](insert-your-twitter-url-here)
+Commit your changes with a descriptive message using git commit -am 'Add some XYZ'.
+
+Push your changes to the branch with git push origin feature/XYZ.
+
+Create a new Pull Request to submit your changes for review and inclusion.
+
+We welcome your contributions and appreciate your efforts in improving the system!
+
