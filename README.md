@@ -36,10 +36,11 @@ You can USE the latest version of the College Branch Recommendation System from 
 
 To use this system, follow these steps:
 
-1. Clone the repository.
-2. Install necessary dependencies from requirements.txt.
-3. Prepare your data in the expected format.
-4. Run the main script to start receiving personalized recommendations.
+1.Clone the repository using git clone.
+
+2.Install required dependencies from requirements.txt by running pip install -r requirements.txt.
+
+3.Launch the application using Gunicorn with the command gunicorn app:app.
 
 ## Download
 
