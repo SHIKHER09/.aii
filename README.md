@@ -15,7 +15,9 @@
   <a href="#constraints">Constraints</a>
 </p>
 
-![screenshot](https://aii-08up.onrender.com/form)
+## LIVE LINK
+
+You can USE the latest version of the College Branch Recommendation System from [here](https://aii-08up.onrender.com/form)
 
 ## Key Features
 
